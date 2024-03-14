@@ -1,0 +1,27 @@
+let pname="Maqsood Ahmed\t\t\t\t\t\t•";
+let pname1="\n\n\t\t\t\t\t W e l l c o m e  T o  A I  C l a s s\t\n";
+let pname2="\n\t\t\t\t\t\t M U H A M M A D  A L I\t\n"
+let petern="•\t\t\t\t\t\t\t\t\t\t\t\t\t\t•";
+console.log(pname1);
+console.log(pname2);
+console.log("•••••••••••••••••••••••••••••••••••••••••••••••••Exercise 06•••••••••••••••••••••••••••••••••••••••••••••••••••••");
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log("•                                                 Hello World                                                   •");
+console.log(petern);
+console.log("•","\t\t\t\t\t My Name is",pname);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log(petern);
+console.log("•••••••••••••••••••••••••••••••••This program is created by Maqsood Ahmed••••••••••••••••••••••••••••••••••••••••\n");
+console.log(pname1.trim());
+console.log(pname2.trim());
