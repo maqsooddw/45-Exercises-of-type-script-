@@ -1,4 +1,4 @@
-var pname1 = "mAqsOod aHmEd";
+let pname1 = "mAqsOod aHmEd";
 console.log("•••••••••••••••••••••••••••••••••••••••••••••••••Exercise 03•••••••••••••••••••••••••••••••••••••••••••••••••••••");
 console.log("•                                                                                                               •");
 console.log("•                                                                                                               •");
@@ -7,7 +7,7 @@ console.log("•                              My name is Upper Case :", pname1.t
 console.log("•                                                                                                               •");
 console.log("•                              My name is Lower Case :", pname1.toLowerCase(), "                                           •");
 console.log("•                                                                                                               •");
-console.log("•                              My name is Title Case :", pname1.toLowerCase().replace(/\b\w/g, function (char) { return char.toUpperCase(); }), "                                           •");
+console.log("•                              My name is Title Case :", pname1.toLowerCase().replace(/\b\w/g, (char) => char.toUpperCase()), "                                           •");
 // let titleCaseString = pname1.toLowerCase().replace(/\b\w/g, (char) => char.toUpperCase());
 // console.log(titleCaseString);
 // console.log(pname1.replace(/\b\w/g, (abcd)=> abcd="Bhutto"+pname1));
@@ -24,3 +24,4 @@ console.log("•                                                                
 console.log("•                                                                                                               •");
 console.log("•                                                                                                               •");
 console.log("•••••••••••••••••••••••••••••••••This program is created by Maqsood Ahmed••••••••••••••••••••••••••••••••••••••••");
+export {};

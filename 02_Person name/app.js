@@ -1,4 +1,4 @@
-var pname = "Maqsood Ahmed";
+let pname = "Maqsood Ahmed";
 console.log("•••••••••••••••••••••••••••••••••••••••••••••••••Exercise 02•••••••••••••••••••••••••••••••••••••••••••••••••••••");
 console.log("•                                                                                                               •");
 console.log("•                                                                                                               •");
@@ -18,3 +18,4 @@ console.log("•                                                                
 console.log("•                                                                                                               •");
 console.log("•                                                                                                               •");
 console.log("•••••••••••••••••••••••••••••••••This program is created by Maqsood Ahmed••••••••••••••••••••••••••••••••••••••••");
+export {};
