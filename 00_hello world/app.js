@@ -17,4 +17,3 @@ console.log("•                                                                
 console.log("•                                                                                                               •");
 console.log("•                                                                                                               •");
 console.log("•••••••••••••••••••••••••••••••••This program is created by Maqsood Ahmed••••••••••••••••••••••••••••••••••••••••");
-export {};
